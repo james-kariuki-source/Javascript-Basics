@@ -1,4 +1,4 @@
 # JAVASCRIPT BASICS
 
-### Code which includes they basics of javascript. 
+### Exaples of code that shows the basics of javascript. 
 ### The basic syntax of javascript.
